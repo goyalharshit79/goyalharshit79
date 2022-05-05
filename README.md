@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @goyalharshit79
 - 👀 I’m interested in learning web and desktop development
-- 🌱 I’m currently learning C.
 - 📫 How to reach me - goyalharshit79@gmail.com
 
 <!---
