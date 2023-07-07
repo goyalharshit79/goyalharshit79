@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bKnEnd65zqxfq/giphy.gif">
 </div>
-<h2 align="center">Hey! I am Harshit Goyal, and I Love Coding and STAAAAAR TREEEEEK</h2>
+<h2 align="center">Hey! I am Harshit Goyal, and I Love Coding and STAR TREK</h2>
 
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=goyalharshit79&theme=dark)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=goyalharshit79&theme=dark)
